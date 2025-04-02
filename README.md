@@ -1,4 +1,12 @@
 # 红包雨特效组件
+
+## 1.引入css文件
+import "red-envelope-rain-vue/dist/style.css";
+
+## 2.引入组件
+import redEnvelopeRain from "red-envelope-rain-vue";
+
+## 3.使用组件
 num  红包数量
 icon 下雨的icon图标
 <redEnvelopeRain style="width: 100vw;height: 100vh;" :num="100"></redEnvelopeRain>
