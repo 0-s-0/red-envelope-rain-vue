@@ -1,6 +1,6 @@
 {
   "name": "red-envelope-rain-vue",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "Index.vue",
   "keywords": [
@@ -10,7 +10,9 @@
   ],
   "author": "Timo",
   "license": "ISC",
+  "peerDependencies": {
+    "vue": "^3.5.0" 
+  },
   "dependencies": {
-    "vue": "^3.5.13"
   }
 }
