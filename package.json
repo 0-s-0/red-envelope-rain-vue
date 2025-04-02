@@ -1,5 +1,5 @@
 {
-  "name": "@jsl/red-envelope-rain-vue",
+  "name": "red-envelope-rain-vue",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.umd.js",
