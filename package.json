@@ -9,8 +9,8 @@
     "build": "vite build",
     "link": "npm run build && npm link"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["vue3", "红包雨", "组件"],
+  "author": "Timo",
   "license": "ISC",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.21.0",
